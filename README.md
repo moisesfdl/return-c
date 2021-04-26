@@ -18,9 +18,9 @@ vetor[]{ascii(%c)};
 std::cout << "Caractere" << ascii << ": " << std::endl;
 for (Vetor i = o , i <= o ; i++)
 {
-  if (%c)
-  {
-    Vetor{ascii==%c};
+    if ("%c")
+        {
+            Vetor{ ascii == ("%c") };
     system("ascii")
   };
   std::cout << "Vetor: " << ascii(%c) << std::sizeof(%c) << std::setprecision(%c) << std::endl;
