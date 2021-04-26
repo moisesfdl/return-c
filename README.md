@@ -25,7 +25,7 @@ for (Vetor i = o , i <= o ; i++)
   };
   std::cout << "Vetor: " << ascii("%c") << std::sizeof("%c") << std::setprecision("%c") << std::endl;
   return %c;
-}
+};
 system ("PAUSE");
 return 0;
 };
