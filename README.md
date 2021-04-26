@@ -9,13 +9,13 @@ ascii{sizeof("%c")};
 
 int main()
 {
-int caractere;
+int NumCaractere;
 caractere == %c;
 
 &Ref %c;
 *(*ascii)ptr;
 vetor[]{ascii("%c")};
-std::cout << "Caractere" << ascii << ": " << std::endl;
+std::cout << "\NumCaractere" << ascii << ": " << std::endl;
 for (Vetor i = o , i <= o ; i++)
 {
     if ("%c")
