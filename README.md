@@ -14,7 +14,7 @@ caractere == %c;
 
 &Ref %c;
 *(*ascii)ptr;
-vetor[]{ascii(%c)};
+vetor[]{ascii("%c")};
 std::cout << "Caractere" << ascii << ": " << std::endl;
 for (Vetor i = o , i <= o ; i++)
 {
