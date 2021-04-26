@@ -5,7 +5,7 @@ Ref ascii
   #include <ioascii.h>
   #include <iomanip>
   
-ascii{sizeof(%c)};
+ascii{sizeof("%c")};
 
 int main()
 {
